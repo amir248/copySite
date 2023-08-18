@@ -1,0 +1,15 @@
+
+{
+  "icons": [
+    {
+      "src": "https://img-s.wfolio.com/x/I_U8BtKEMOV5ak5G_jHW3jw1271tGhVG/tdd3RBKiKrvJYqIQS8B77N22RKCnZxQl/e5hgvZUNbYpYZjdDe3MRsKd0f3yfmvFP/hVv9ONqjAm9ZiAALxW0PCuls_A4Q5ues.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://img-s.wfolio.com/x/wNptGBBBX2soujZNLRbvp4-rhTLhGbNM/JT3d0mYjZoiKh4eW0obb7uWhwhZ1NhK8/ZRQoODOb4qWSZFJdEDgoX56blsl5N_H6/A0_D0RjsbGLcEqTvTJzN-Ay-rHKE6ZYe.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
